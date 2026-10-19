@@ -1,0 +1,4 @@
+- insert:
+    - id: quick-search
+      name: '@local/quick-search'
+      config: {}
